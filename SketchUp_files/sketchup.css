@@ -1,0 +1,3165 @@
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.about-tab-pane {
+  height: 100%;
+}
+
+.terms-of-service-tab-pane {
+  display: flex;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
+  min-height: 0;
+  padding: 20px 0 20px 45px;
+  position: absolute;
+  width: 100%;
+}
+.terms-of-service-tab-pane iframe {
+  margin: 0 auto;
+}
+
+.changelog-error-message {
+  color: #6a6e79;
+  font-size: 16px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.changelog-tab-pane {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 20px 0 20px 45px;
+}
+
+.changelog {
+  width: 720px;
+}
+
+.changlelog-header {
+  align-items: center;
+  display: flex;
+  color: #6a6e79;
+  font-size: 16px;
+  justify-content: space-between;
+}
+
+.about-content .about-team-tab-pane {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
+.about-team-tab-pane .about-team-photo {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  padding: 40px 20px;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+@keyframes animate-fade-in {
+  0% {
+    opacity: 0;
+    visibility: visible;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes animate-fade-out {
+  0% {
+    opacity: 1;
+    visibility: visible;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.fade-out-animation {
+  animation-name: animate-fade-out;
+  animation-timing-function: ease-out;
+  animation-duration: 500ms;
+}
+
+.fade-in-animation {
+  animation-name: animate-fade-in;
+  animation-timing-function: ease-in;
+  animation-duration: 500ms;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+  overscroll-behavior-x: none;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 10pt;
+  margin: 0;
+  position: relative;
+}
+
+body textarea,
+body input {
+  font-family: "Open Sans", sans-serif;
+  font-size: 10pt;
+}
+
+#main-canvas-wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+#canvas {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  user-drag: none;
+  -webkit-user-drag: none;
+}
+
+.main-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  outline: none;
+  z-index: 10;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.invisible {
+  display: none !important;
+}
+
+.visibility-fade-out {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s linear 300ms, opacity 300ms;
+}
+
+.visibility-fade-in {
+  visibility: visible;
+  opacity: 1;
+  transition: visibility 0s linear 0s, opacity 300ms;
+}
+
+.visibility-none {
+  visibility: hidden;
+}
+
+.loading-gif {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.expand-view-button {
+  position: absolute;
+  right: 4px;
+  top: 7px;
+}
+
+.expand-view-button img {
+  width: 25px;
+}
+
+.expand-view-button svg {
+  width: 25px;
+  height: 25px;
+}
+
+.expand-view-button svg:hover path {
+  fill: #fbad26 !important;
+}
+
+#prompt {
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  color: #000000;
+  z-index: 1;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: left;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.sidebar-tab-bar {
+  align-items: center;
+  border-bottom: 1px solid #cbcdd6;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.sidebar-tab-bar-tab {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  align-items: center;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 20px 5px 20px;
+  position: relative;
+  top: 1px;
+}
+.sidebar-tab-bar-tab:hover {
+  background-color: #ffffff;
+}
+.sidebar-tab-bar-tab.selected-tab {
+  border-color: #0063a3;
+}
+.sidebar-tab-bar-tab img {
+  pointer-events: none;
+}
+.sidebar-tab-bar-tab .tab-name {
+  margin-left: 5px;
+  pointer-events: none;
+}
+
+.sidebar-tab-body-container {
+  flex: 1;
+  overflow-y: auto;
+  min-height: 0;
+  position: relative;
+}
+
+.disabled-button {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=20);
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+.offscreen-canvas {
+  display: none;
+}
+
+progress[value] {
+  /* Reset the default appearance */
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+progress[value]::-webkit-progress-bar {
+  background-color: #ffffff;
+  color: #ff0404;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+progress[value]::-webkit-progress-value {
+  background-color: #ff0404;
+  color: #ff0404;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+progress::-moz-progress-bar {
+  background-color: #ff0404;
+}
+
+.synching-gif img {
+  height: 25px;
+  float: right;
+  margin-right: 5px;
+}
+
+input[type=text]:disabled {
+  background: none;
+  border: 1px solid transparent !important;
+  color: #6a6e79;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.default-button {
+  background-color: #009ad9;
+  cursor: pointer;
+  color: #e0e1e9;
+  height: 30px;
+  line-height: 30px;
+  min-width: 180px;
+  text-align: center;
+}
+
+.default-button-disabled {
+  background-color: #b7b9c3;
+  pointer-events: none;
+}
+
+.upgrade-button-base, .upgrade-button-canvas {
+  background-color: rgba(37, 42, 46, 0.6);
+  color: #ffffff;
+  cursor: pointer;
+  height: 30px;
+  line-height: 30px;
+  min-width: 180px;
+  text-align: center;
+  user-select: none;
+}
+.upgrade-button-base:hover, .upgrade-button-canvas:hover {
+  background-color: rgba(37, 42, 46, 0.8);
+}
+.upgrade-button-base:active, .upgrade-button-canvas:active {
+  background-color: #252a2e;
+}
+
+.upgrade-button-canvas {
+  border: 0;
+  bottom: 35px;
+  right: 5px;
+  position: absolute;
+  z-index: 20;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+.browser-content {
+  position: relative;
+}
+
+.browser {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background-color: #f1f1f6;
+  display: none;
+}
+.browser:not(:last-child) {
+  margin-bottom: 5px;
+}
+.browser.is-visible {
+  display: block;
+}
+
+.browser .browser-header {
+  align-items: center;
+  background-color: #ebebeb;
+  border-bottom: 1px solid #b7b9c3;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  overflow: hidden;
+}
+.browser .browser-header:hover {
+  background-color: #dcedf9;
+}
+.browser .browser-header:hover .browser-header-close {
+  display: block;
+}
+.browser .browser-header .title {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+  color: #0e416c;
+  flex: 1;
+  padding: 0px 8px;
+}
+.browser .browser-header .browser-header-close {
+  display: none;
+  flex-shrink: 0;
+  height: 40px;
+  width: 40px;
+  fill: #a3a6b1;
+  stroke: #a3a6b1;
+}
+.browser .browser-header .browser-header-close:hover {
+  fill: #009ad9;
+  stroke: #009ad9;
+}
+.browser .browser-header .browser-header-close svg {
+  height: 30px;
+  margin: 5px;
+  width: 30px;
+}
+
+.browser .collapsible-browser-contents {
+  background-color: #f1f1f6;
+  display: none;
+  position: relative;
+}
+
+.browser.is-open .collapsible-browser-contents {
+  display: block;
+}
+
+.browser .browser-tabs {
+  border-bottom: 1px solid #cbcdd6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.browser .browser-tabs img {
+  height: 30px;
+}
+
+.browser .browser-tab.selected-tab {
+  border-bottom: 3px solid #0063a3;
+}
+
+.browser-bottom-actions-bar .browser-bottom-bar-action:hover {
+  background-color: #ffffff;
+}
+
+.browser-bottom-actions-bar .browser-bottom-bar-action {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+.browser-bottom-actions-bar .browser-bottom-bar-action img,
+.browser-bottom-actions-bar .browser-bottom-bar-action svg,
+.browser-bottom-actions-bar .browser-bottom-bar-action .icon {
+  width: 30px;
+  height: 30px;
+}
+
+.browser-bottom-actions-bar .browser-bottom-bar-action.disabled {
+  filter: opacity(0.5);
+  pointer-events: none;
+  transition: filter 0.25s;
+}
+
+.browser .browser-tab:hover {
+  background-color: #ffffff;
+}
+
+.browser .browser-tab {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: center;
+  width: 100%;
+}
+
+.browser .browser-tab:first-child {
+  border-right: 0px;
+}
+
+.browser-bottom-actions-bar {
+  align-items: center;
+  background-color: #f1f1f6;
+  border-top: 1px solid #b7b9c3;
+  bottom: 0;
+  display: flex;
+  fill: #464b52;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.primary-action-button,
+.secondary-action-button,
+.tertiary-action-button,
+.warning-action-button {
+  border: 1px solid transparent;
+  cursor: pointer;
+  height: 35px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 35px;
+  min-width: 180px;
+  outline: none;
+  text-align: center;
+  user-select: none;
+  border-radius: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.primary-action-button {
+  border-color: #0063a3;
+  background-color: #0063a3;
+  color: #ffffff;
+}
+.primary-action-button:hover {
+  border-color: #217cbb;
+  background-color: #217cbb;
+}
+.primary-action-button:active {
+  border-color: #217cbb;
+  background-color: #217cbb;
+}
+
+.secondary-action-button {
+  background-color: transparent;
+  color: #0063a3;
+  border: 1px solid #0063a3;
+}
+.secondary-action-button:hover {
+  border: 1px solid transparent;
+  background-color: #217cbb;
+  color: #ffffff;
+}
+.secondary-action-button:active {
+  border: 1px solid transparent;
+  background-color: #217cbb;
+  color: #ffffff;
+}
+
+.tertiary-action-button {
+  background-color: transparent;
+  color: #0063a3;
+}
+.tertiary-action-button:hover {
+  border: 1px solid transparent;
+  background-color: #dcedf9;
+}
+.tertiary-action-button:active {
+  border: 1px solid transparent;
+  background-color: #dcedf9;
+}
+
+.warning-action-button {
+  border-color: #ff5500;
+  background-color: #ff5500;
+  color: #ffffff;
+}
+
+.warning-action-button:hover,
+.warning-action-button:active {
+  border-color: #ff0404;
+  background-color: #ff0404;
+}
+
+.button-disabled {
+  background-color: #a3a6b1;
+  border: 1px solid transparent;
+  opacity: 50%;
+  color: #ffffff;
+  pointer-events: none;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+input[type=checkbox].checkbox {
+  position: absolute;
+  visibility: hidden;
+}
+
+input[type=checkbox].checkbox + label.checkbox-label {
+  background: transparent;
+  border: 1px solid #b7b9c3;
+  cursor: pointer;
+  display: inline-block;
+  height: 20px;
+  margin-right: 4px;
+  position: relative;
+  user-select: none;
+  vertical-align: middle;
+  width: 20px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+input[type=checkbox].checkbox:disabled + label.checkbox-label {
+  pointer-events: none;
+}
+input[type=checkbox].checkbox:disabled + label.checkbox-label ~ label {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+input[type=checkbox].checkbox:checked + label.checkbox-label {
+  background: #0063a3;
+}
+
+input[type=checkbox].checkbox:checked:disabled + label.checkbox-label {
+  background: #e0e1e9;
+  pointer-events: none;
+}
+
+label.checkbox-label:hover .checkbox-checkmark {
+  opacity: 0.4;
+}
+
+input[type=checkbox].checkbox:checked + label.checkbox-label .checkbox-checkmark {
+  opacity: 1;
+}
+
+.checkbox-checkmark {
+  content: "";
+  width: 9px;
+  height: 5px;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  border: 3px solid #ffffff;
+  border-top: none;
+  border-right: none;
+  background: transparent;
+  opacity: 0;
+  transform: rotate(-45deg);
+}
+
+.checkbox-disabled label {
+  background: #b7b9c3 !important;
+  pointer-events: none;
+}
+
+.debugging-page {
+  margin-left: 20px;
+  overflow: auto;
+  padding-top: 20px;
+  position: relative;
+}
+.debugging-page .primary-action-button {
+  margin: 10px;
+}
+.debugging-page table td {
+  padding: 5px;
+  vertical-align: top;
+}
+.debugging-page table td table td {
+  border: 1px solid #000000;
+  min-width: 150px;
+}
+.debugging-page table td.label {
+  padding-top: 10px;
+}
+.debugging-page table.file-system-table {
+  border-collapse: collapse;
+}
+.debugging-page table.file-system-table td,
+.debugging-page table.file-system-table th {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: justify;
+}
+.debugging-page table.file-system-table td .primary-action-button,
+.debugging-page table.file-system-table th .primary-action-button {
+  margin: 2px;
+}
+.debugging-page .log-tab-header,
+.debugging-page .metadata-tab-header,
+.debugging-page .file-system-tab-header {
+  border: #000000 2px solid;
+  margin: 0;
+  padding: 1em;
+}
+.debugging-page .log-tab-header:focus,
+.debugging-page .metadata-tab-header:focus,
+.debugging-page .file-system-tab-header:focus {
+  outline: none;
+}
+.debugging-page #log-file,
+.debugging-page #metadata,
+.debugging-page #file-system {
+  display: none;
+}
+.debugging-page #tabs.log .log-tab-header,
+.debugging-page #tabs.metadata .metadata-tab-header,
+.debugging-page #tabs.file-system .file-system-tab-header {
+  border-bottom: 0px;
+}
+.debugging-page #tabs.log #log-file,
+.debugging-page #tabs.metadata #metadata,
+.debugging-page #tabs.file-system #file-system {
+  display: block;
+}
+.debugging-page #tabs {
+  margin-bottom: 40px;
+}
+
+.display-browser .collapsible-browser-contents {
+  padding-bottom: 10px;
+}
+
+.eula {
+  margin-top: 10px;
+}
+
+.eula div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.eula input {
+  margin-right: 10px;
+}
+
+.eula .message {
+  margin-left: 10px;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-Light.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/OpenSans-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lora-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lora-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Lora";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lora-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Lora";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lora-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Anonymous Pro";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/AnonymousPro-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Oswald-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Oswald-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Permanent Marker";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/PermanentMarker-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Playball";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Playball-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Architects Daughter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/ArchitectsDaughter-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Concert One";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/ConcertOne-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lato-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lato-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lato-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Lato-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Merriweather-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Merriweather-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Merriweather-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Merriweather-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Montserrat-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Montserrat-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Montserrat-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Montserrat-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/NotoSans-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/NotoSans-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Noto Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/NotoSans-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/NotoSans-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/PTSans-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/PTSans-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/PTSans-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "PT Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/PTSans-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Prompt";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Prompt-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Prompt";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Prompt-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Prompt";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Prompt-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Prompt";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Prompt-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Raleway-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Raleway-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Raleway";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Raleway-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Raleway-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Roboto-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 700;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Roboto-BoldItalic.woff") format("woff");
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Roboto-Italic.woff") format("woff");
+}
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/app_static/2026-05-20--12-44-17--0577959/resources/fonts/Roboto-Regular.woff") format("woff");
+}
+.picker-dialog-bg {
+  z-index: 60 !important;
+  background-color: #f1f1f6 !important;
+  opacity: 1 !important;
+}
+
+.menu-strip {
+  width: 100%;
+  height: 0px;
+  background-color: #e0e1e9;
+  position: relative;
+}
+
+.menu-strip .main-menu {
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.menu-strip .menus {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.menu-strip .main-menu:hover {
+  cursor: pointer;
+}
+
+.sketchup-icon {
+  margin-left: 3px;
+  position: relative;
+  top: 3px;
+}
+
+.goog-menu-button-inner-box {
+  padding-bottom: 6px;
+  padding-top: 7px;
+}
+
+.sketchup-icon img {
+  height: 25px;
+  width: 25px;
+}
+
+.file-load-container input {
+  width: 0px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+}
+
+.menu-name {
+  font-size: 13px;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 0px;
+  padding-bottom: 2px;
+  font-family: Arial, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.menu-name-selected {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.goog-menu-button-caption {
+  font-size: 10pt;
+  color: #000000;
+}
+
+.menus .goog-menubar .goog-menu-button-hover .goog-menu-button-caption {
+  color: #000000;
+}
+
+.menus .goog-menubar .goog-menu-button-hover {
+  background-color: #ffffff;
+}
+
+.menu-strip .sketchup-icon {
+  display: inline-block;
+}
+
+.menu-strip .model-title {
+  font-weight: bold;
+  font-size: 14pt;
+  color: #000000;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 2px;
+  vertical-align: top;
+  border-left: 1px solid #a3a6b1;
+  padding-left: 7px;
+}
+
+.ideas-link {
+  display: inline-block;
+  font-size: 10pt;
+  margin-left: 10px;
+  position: relative;
+  top: 7px;
+}
+
+.ideas-link a {
+  text-decoration: none;
+  color: #ff0404;
+}
+
+.menu-strip .model-title-container {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  text-align: center;
+  width: 400px;
+}
+
+@media only screen and (max-device-width: 768px) {
+  /* For general iPad layouts */
+  .menu-strip .model-title-container {
+    display: none;
+  }
+  .menu-strip {
+    display: none;
+  }
+  .toolbar {
+    height: 65px;
+    text-align: center;
+  }
+  .tool-wrapper {
+    display: none;
+  }
+  #debugperf,
+  #open,
+  #tapemeasuretool,
+  #zoomextentscommand,
+  #pantool,
+  #orbittool {
+    display: inline-block;
+    height: 65px;
+  }
+  #debugperf .tool,
+  #debugperf .tool-img,
+  #debugperf .tool-img img,
+  #open .tool,
+  #open .tool-img,
+  #open .tool-img img,
+  #tapemeasuretool .tool,
+  #tapemeasuretool .tool-img,
+  #tapemeasuretool .tool-img img,
+  #zoomextentscommand .tool,
+  #zoomextentscommand .tool-img,
+  #zoomextentscommand .tool-img img,
+  #pantool .tool,
+  #pantool .tool-img,
+  #pantool .tool-img img,
+  #orbittool .tool,
+  #orbittool .tool-img,
+  #orbittool .tool-img img {
+    height: 65px;
+    width: 65px;
+  }
+  .tool-wrapper .toolbar-separator {
+    display: none;
+  }
+  #prompt {
+    display: none;
+  }
+}
+/* Functional styling;
+ * These styles are required for noUiSlider to function.
+ * You don't need to change these rules to apply your design.
+ */
+.noUi-target,
+.noUi-target * {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -ms-touch-action: none;
+  touch-action: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.noUi-target {
+  position: relative;
+  direction: ltr;
+}
+
+.noUi-base {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 1; /* Fix 401 */
+}
+
+.noUi-origin {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.noUi-handle {
+  position: relative;
+  z-index: 1;
+}
+
+.noUi-stacking .noUi-handle {
+  /* This class is applied to the lower origin when
+   its values is > 50%. */
+  z-index: 10;
+}
+
+.noUi-state-tap .noUi-origin {
+  -webkit-transition: left 0.3s, top 0.3s;
+  transition: left 0.3s, top 0.3s;
+}
+
+.noUi-state-drag * {
+  cursor: inherit !important;
+}
+
+/* Painting and performance;
+ * Browsers can paint handles in their own layer.
+ */
+.noUi-base,
+.noUi-handle {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+/* Slider size and handle placement;
+ */
+.noUi-horizontal {
+  height: 18px;
+}
+
+.noUi-horizontal .noUi-handle {
+  width: 34px;
+  height: 28px;
+  left: -17px;
+  top: -6px;
+}
+
+.noUi-vertical {
+  width: 18px;
+}
+
+.noUi-vertical .noUi-handle {
+  width: 28px;
+  height: 34px;
+  left: -6px;
+  top: -17px;
+}
+
+/* Styling;
+ */
+.noUi-background {
+  background: #fafafa;
+  box-shadow: inset 0 1px 1px #f0f0f0;
+}
+
+.noUi-connect {
+  background: #3fb8af;
+  box-shadow: inset 0 0 3px rgba(51, 51, 51, 0.45);
+  -webkit-transition: background 450ms;
+  transition: background 450ms;
+}
+
+.noUi-origin {
+  border-radius: 2px;
+}
+
+.noUi-target {
+  border-radius: 4px;
+  border: 1px solid #d3d3d3;
+  box-shadow: inset 0 1px 1px #f0f0f0, 0 3px 6px -5px #bbb;
+}
+
+.noUi-target.noUi-connect {
+  box-shadow: inset 0 0 3px rgba(51, 51, 51, 0.45), 0 3px 6px -5px #bbb;
+}
+
+/* Handles and cursors;
+ */
+.noUi-draggable {
+  cursor: w-resize;
+}
+
+.noUi-vertical .noUi-draggable {
+  cursor: n-resize;
+}
+
+.noUi-handle {
+  border: 1px solid #d9d9d9;
+  border-radius: 3px;
+  background: #fff;
+  box-shadow: inset 0 0 1px #fff, inset 0 1px 7px #ebebeb, 0 3px 6px -3px #bbb;
+}
+
+.noUi-active {
+  box-shadow: inset 0 0 1px #fff, inset 0 1px 7px #ddd, 0 3px 6px -3px #bbb;
+}
+
+/* Handle stripes;
+ */
+.noUi-handle:before,
+.noUi-handle:after {
+  content: "";
+  display: block;
+  position: absolute;
+  height: 14px;
+  width: 1px;
+  background: #e8e7e6;
+  left: 14px;
+  top: 6px;
+}
+
+.noUi-handle:after {
+  left: 17px;
+}
+
+.noUi-vertical .noUi-handle:before,
+.noUi-vertical .noUi-handle:after {
+  width: 14px;
+  height: 1px;
+  left: 6px;
+  top: 14px;
+}
+
+.noUi-vertical .noUi-handle:after {
+  top: 17px;
+}
+
+/* Disabled state;
+ */
+[disabled].noUi-connect,
+[disabled] .noUi-connect {
+  background: #b8b8b8;
+}
+
+[disabled].noUi-origin,
+[disabled] .noUi-handle {
+  cursor: not-allowed;
+}
+
+.noUi-target {
+  border: 1px solid #7d808d;
+}
+
+.noUi-background {
+  background: #cbcdd6;
+}
+
+.noUi-connect {
+  background: #009ad9;
+  box-shadow: none;
+}
+
+.noUi-horizontal {
+  height: 7px;
+}
+
+.noUi-handle {
+  border-color: #b7b9c3;
+  border-radius: 22px;
+  box-shadow: none;
+}
+
+.noUi-handle:after,
+.display__section .noUi-handle:before {
+  content: normal;
+}
+
+.noUi-horizontal .noUi-handle {
+  width: 22px;
+  height: 22px;
+  top: -9px;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.onboarding-header-row {
+  margin: 20px 0;
+}
+.onboarding-header-row .onboarding-description-container {
+  display: inline-block;
+  margin-bottom: 10px;
+  position: relative;
+  vertical-align: middle;
+}
+.onboarding-header-row .onboarding-description-container .onboarding-description-header {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+.onboarding-header-row .onboarding-description-container .onboarding-description-text {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 5px;
+  width: 200px;
+  word-wrap: normal;
+}
+
+.onboarding-sketchup-icon {
+  display: inline-block;
+  height: 100%;
+  width: 90px;
+  vertical-align: middle;
+}
+.onboarding-sketchup-icon img {
+  height: 90px;
+  width: 90px;
+}
+
+.onboarding-button-row {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  justify-content: space-around;
+  width: 350px;
+}
+
+.onboarding-back-button, .onboarding-exit-button,
+.onboarding-forward-button {
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 10px 0;
+  text-align: center;
+  width: 130px;
+}
+
+.onboarding-back-button, .onboarding-exit-button {
+  color: #009ad9;
+}
+.onboarding-back-button:hover, .onboarding-exit-button:hover {
+  color: #217cbb;
+}
+.onboarding-back-button:active, .onboarding-exit-button:active {
+  color: #0e416c;
+}
+
+.onboarding-forward-button {
+  background-color: #009ad9;
+  color: #ffffff;
+}
+.onboarding-forward-button:hover {
+  background-color: #217cbb;
+}
+.onboarding-forward-button:active {
+  background-color: #0e416c;
+}
+
+.onboarding-introduction-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  display: flex;
+  flex-direction: column;
+  height: 75%;
+  justify-content: center;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  z-index: 100;
+}
+.onboarding-introduction-container iframe {
+  background-color: #000000;
+}
+
+.onboarding-introduction-controls {
+  align-items: center;
+  background-color: rgba(53, 58, 64, 0.9);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center;
+  padding: 15px 0;
+}
+
+.onboarding-start-button {
+  align-items: center;
+  align-self: center;
+  background-color: #009ad9;
+  border-radius: 2px;
+  color: #ffffff;
+  cursor: pointer;
+  display: flex;
+  flex-shrink: 0;
+  font-size: 24px;
+  font-weight: 400;
+  justify-content: center;
+  padding: 10px 0;
+  text-align: center;
+  width: 300px;
+}
+.onboarding-start-button:hover {
+  background-color: #217cbb;
+}
+.onboarding-start-button:active {
+  background-color: #0e416c;
+}
+
+.onboarding-exit-button {
+  margin-top: 15px;
+}
+
+.onboarding-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background: rgba(53, 58, 64, 0.9);
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  width: 350px;
+  z-index: 100;
+}
+.onboarding-container img {
+  display: block;
+}
+.onboarding-container .onboarding-shrinkable {
+  flex-shrink: 1;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+}
+.onboarding-container .onboarding-no-shrink {
+  flex-shrink: 0;
+  min-height: 0;
+  width: 100%;
+}
+
+.onboarding-home {
+  justify-content: flex-start;
+  left: 0;
+}
+.onboarding-home .onboarding-home-callouts {
+  height: 350px;
+  margin-bottom: 20px;
+}
+
+.onboarding-toolbar {
+  justify-content: center;
+  left: 0;
+}
+.onboarding-toolbar .onboarding-toolbar-callouts {
+  height: 420px;
+}
+
+.onboarding-panels {
+  justify-content: center;
+  right: 0;
+}
+.onboarding-panels .onboarding-panels-callouts {
+  float: right;
+  height: 365px;
+  margin-top: -5px;
+}
+
+.onboarding-status {
+  justify-content: flex-end;
+  left: 0;
+}
+.onboarding-status .onboarding-status-callouts {
+  height: 355px;
+}
+
+.onboarding-measurements {
+  justify-content: flex-end;
+  right: 0;
+}
+.onboarding-measurements .onboarding-measurements-callouts {
+  float: right;
+  height: 150px;
+}
+
+.onboarding-confirmation-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  align-items: center;
+  background-color: rgba(53, 58, 64, 0.9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+}
+
+.onboarding-confirmation-message {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  margin: 50px 40px 20px;
+  width: 320px;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+.port-options-dialog .modal-dialog-title-text {
+  padding: 10px 0 0 2px;
+}
+.port-options-dialog .modal-dialog-content {
+  max-height: calc(100vh - 80px);
+  overflow: auto;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.download-dialog label {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  height: 32px;
+}
+.download-dialog label.disabled {
+  color: #90939f;
+  cursor: default;
+}
+.download-dialog label .radio-container {
+  height: 20px;
+  margin-bottom: 0px;
+}
+.download-dialog .pro-flag {
+  fill: #0063a3;
+  padding-left: 5px;
+  width: 32px;
+}
+.download-dialog .warning-message {
+  color: #ff0404;
+  margin: 10px 0 0 12px;
+}
+
+@media print {
+  div:not(.printable) {
+    display: none;
+  }
+}
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+.right-sidebar-resizable-container {
+  -moz-transition: -moz-transform 250ms ease;
+  -o-transition: -o-transform 250ms ease;
+  -webkit-transition: -webkit-transform 250ms ease;
+  transition: transform 250ms ease;
+  bottom: 30px;
+  position: fixed;
+  right: 40px;
+  top: 0;
+  z-index: 30;
+}
+.right-sidebar-resizable-container.collapsed {
+  transform: translateX(calc(100% + 40px + 5px));
+}
+
+.right-sidebar-tabs-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background-color: #f1f1f6;
+  bottom: 30px;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  top: 0;
+  width: 40px;
+  z-index: 39;
+}
+.right-sidebar-tabs-container .right-sidebar-tabs-grouping {
+  background-color: #f1f1f6;
+  pointer-events: all;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+}
+.right-sidebar-tabs-container .right-sidebar-tabs-grouping .tab {
+  -moz-transition: background-color 0.25s ease-out;
+  -o-transition: background-color 0.25s ease-out;
+  -webkit-transition: background-color 0.25s ease-out;
+  transition: background-color 0.25s ease-out;
+  align-items: center;
+  background-color: #f1f1f6;
+  display: flex;
+  justify-content: center;
+  border-right: 3px solid transparent;
+  padding: 6px 3px 6px 6px;
+  cursor: pointer;
+}
+.right-sidebar-tabs-container .right-sidebar-tabs-grouping .tab:hover, .right-sidebar-tabs-container .right-sidebar-tabs-grouping .tab.active {
+  border-right-color: #009ad9;
+  background-color: #dcedf9 !important;
+}
+.right-sidebar-tabs-container .right-sidebar-tabs-grouping .tab.opened {
+  background-color: #dcedf9;
+}
+.right-sidebar-tabs-container .right-sidebar-tabs-grouping .tab .tab-icon {
+  -moz-transition: fill 0.25s ease-out;
+  -o-transition: fill 0.25s ease-out;
+  -webkit-transition: fill 0.25s ease-out;
+  transition: fill 0.25s ease-out;
+  -moz-transition: stroke 0.25s ease-out;
+  -o-transition: stroke 0.25s ease-out;
+  -webkit-transition: stroke 0.25s ease-out;
+  transition: stroke 0.25s ease-out;
+  cursor: pointer;
+  height: 28px;
+  width: 28px;
+}
+.right-sidebar-tabs-container .hide-sidebar-tab {
+  cursor: pointer;
+  fill: #252a2e;
+  padding: 3px;
+  pointer-events: all;
+  stroke: #252a2e;
+}
+.right-sidebar-tabs-container .hide-sidebar-tab :hover,
+.right-sidebar-tabs-container .hide-sidebar-tab :active {
+  fill: #009ad9;
+  stroke: #009ad9;
+}
+.right-sidebar-tabs-container .hide-sidebar-tab svg {
+  height: 27px;
+  width: 27px;
+}
+.right-sidebar-tabs-container.collapsed {
+  background: none;
+  box-shadow: none;
+  pointer-events: none;
+}
+.right-sidebar-tabs-container.collapsed .hide-sidebar-tab {
+  display: none;
+}
+.right-sidebar-tabs-container.collapsed .right-sidebar-tabs-grouping {
+  box-shadow: -2px 2px 5px 0px rgba(0, 0, 0, 0.2);
+  pointer-events: all;
+}
+.right-sidebar-tabs-container.browsers-hidden .right-sidebar-tabs-grouping .tab {
+  background-color: #f1f1f6;
+}
+
+.right-sidebar.right-expanded-sidebar {
+  top: 0px;
+  height: calc(100% - 30px);
+  box-shadow: none;
+}
+
+.right-sidebar-container, .right-sidebar-slideout {
+  box-shadow: -5px 0 5px -3px rgba(0, 0, 0, 0.2);
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background-color: rgba(203, 205, 214, 0.95);
+  height: 100%;
+  left: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.right-sidebar-container::before, .right-sidebar-slideout::before {
+  content: "";
+  background: url("/app_static/2026-05-20--12-44-17--0577959/images/web/triangle_tessellation.svg") center;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+.right-sidebar-container.resizing, .resizing.right-sidebar-slideout {
+  cursor: ew-resize !important;
+}
+
+.right-sidebar-container .expandable .expand-button, .right-sidebar-slideout .expandable .expand-button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+}
+.right-sidebar-container .expandable .expand-button .icon, .right-sidebar-slideout .expandable .expand-button .icon {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -moz-transition: all 0.25s ease;
+  -o-transition: all 0.25s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  height: 25px;
+  width: 25px;
+  transform: rotate(0);
+}
+.right-sidebar-container .expandable .expand-button:hover .icon, .right-sidebar-slideout .expandable .expand-button:hover .icon {
+  fill: #0063a3;
+}
+
+.right-sidebar-container .expandable:hover .expand-button .icon, .right-sidebar-slideout .expandable:hover .expand-button .icon {
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+}
+
+.right-sidebar-container .expandable.expanded .expand-button .icon, .right-sidebar-slideout .expandable.expanded .expand-button .icon {
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+  transform: rotate(90deg);
+}
+
+.right-sidebar-container .expandable-category, .right-sidebar-slideout .expandable-category {
+  font-weight: 300;
+  position: relative;
+  font-size: 10pt;
+  overflow: hidden;
+  cursor: pointer;
+}
+.right-sidebar-container .expandable-category .category-header, .right-sidebar-slideout .expandable-category .category-header {
+  padding-bottom: 8px;
+  padding-top: 8px;
+  position: relative;
+}
+.right-sidebar-container .expandable-category .category-header:hover, .right-sidebar-slideout .expandable-category .category-header:hover {
+  background-color: #ffffff;
+}
+.right-sidebar-container .expandable-category .category-header .category-title, .right-sidebar-slideout .expandable-category .category-header .category-title {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 195px;
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.right-sidebar-container .expandable-category .category-header .category-thumbnail, .right-sidebar-slideout .expandable-category .category-header .category-thumbnail {
+  display: inline-block;
+  vertical-align: middle;
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 15px;
+}
+.right-sidebar-container .expandable-category .category-header .category-thumbnail img, .right-sidebar-slideout .expandable-category .category-header .category-thumbnail img {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #cbcdd6;
+  border-radius: 20px;
+  position: relative;
+  top: 4px;
+}
+.right-sidebar-container .expandable-category .category-header .expand-button, .right-sidebar-slideout .expandable-category .category-header .expand-button {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.right-sidebar-container .expandable-category .category-contents, .right-sidebar-slideout .expandable-category .category-contents {
+  max-height: 0px;
+  -moz-transition: all 200ms;
+  -o-transition: all 200ms;
+  -webkit-transition: all 200ms;
+  transition: all 200ms;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  line-height: 50%;
+}
+
+.right-sidebar-container .expandable-category.expanded .category-contents, .right-sidebar-slideout .expandable-category.expanded .category-contents {
+  max-height: 10000px;
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+  background-color: #b7b9c3;
+  padding-bottom: 5px;
+}
+
+.right-sidebar-slideout {
+  -moz-transition: left 250ms ease;
+  -o-transition: left 250ms ease;
+  -webkit-transition: left 250ms ease;
+  transition: left 250ms ease;
+  background-color: #f1f1f6;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  overflow-y: hidden;
+  z-index: 80;
+}
+.right-sidebar-slideout::before {
+  background: none;
+}
+.right-sidebar-slideout.collapsed {
+  left: calc(100% + 40px);
+}
+.right-sidebar-slideout .title {
+  border-bottom: 1px solid #cbcdd6;
+  flex-shrink: 0;
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+  padding: 7px 13px;
+}
+.right-sidebar-slideout .content {
+  flex: 1;
+  overflow-y: auto;
+  position: relative;
+}
+.right-sidebar-slideout .content .bottom-actions-bar {
+  border-top: 1px solid #b7b9c3;
+  padding: 5px;
+}
+
+.right-sidebar-resize-handle {
+  bottom: 0;
+  cursor: ew-resize;
+  margin-left: -5px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+  z-index: 1;
+}
+.right-sidebar-resize-handleresizing {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+.scene-instance-container {
+  border-bottom-width: 0;
+  border-color: #f1f1f6;
+  border-top-width: 0;
+}
+.scene-instance-container.dragover-above {
+  border-top: 50px solid #f1f1f6;
+}
+.scene-instance-container.dragover-below {
+  border-bottom: 50px solid #f1f1f6;
+}
+
+.dragged-scene {
+  opacity: 0.3;
+}
+
+.scene-instance {
+  -moz-transition: all 200ms;
+  -o-transition: all 200ms;
+  -webkit-transition: all 200ms;
+  transition: all 200ms;
+  align-items: center;
+  border-bottom: 1px solid #e0e1e9;
+  cursor: pointer;
+  display: flex;
+}
+
+.scene-instance:first-child {
+  border-top: 1px solid #e0e1e9;
+}
+
+.scene-instance:hover,
+.scene-instance:active {
+  background-color: #ffffff;
+}
+
+.scene-instance .scene-name {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+  color: #464b52;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 58%;
+  overflow: hidden;
+}
+
+.scenes-container.editable .scene-instance .scene-name-editable,
+.scenes-container.editable .scene-instance .scene-name {
+  border: 1px solid transparent;
+  flex: 1;
+  overflow-x: hidden;
+  cursor: text;
+}
+.scenes-container.editable .scene-instance .scene-name-editable:hover,
+.scenes-container.editable .scene-instance .scene-name:hover {
+  border-color: #cbcdd6;
+}
+
+.scene-instance.selected-scene {
+  background-color: #ffffff;
+}
+
+.scene-instance-children {
+  align-items: center;
+  display: flex;
+}
+
+.expandable-category .scene-thumbnail img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  place-self: center;
+}
+
+.expandable-category .scene-thumbnail {
+  align-items: center;
+  display: flex;
+  height: 55px;
+  width: 98px;
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  padding: 5px 0;
+}
+
+.scenes-content .browser-bottom-actions-bar {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.scenes-divider {
+  border-bottom: solid 1px #cbcdd6;
+  margin: 15px 15px 10px 15px;
+}
+
+.scenes-none-exist-message {
+  color: #6a6e79;
+  text-align: center;
+}
+
+.scene-instance .expand-button {
+  align-self: stretch;
+}
+
+.scene-details {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -moz-transition: all 200ms;
+  -o-transition: all 200ms;
+  -webkit-transition: all 200ms;
+  transition: all 200ms;
+  max-height: 0px;
+  background-color: #e0e1e9;
+  color: #6a6e79;
+  display: none;
+  flex-direction: column;
+  padding-bottom: 20px;
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.scene-details input {
+  padding: 5px;
+}
+.scene-details .scene-description {
+  border: none;
+  margin: 2px 16px 5px;
+  font-weight: normal;
+  font-size: 12px;
+  letter-spacing: 0.75px;
+  color: #000000;
+  max-height: 400px;
+  outline: none;
+  padding: 3px;
+  resize: vertical;
+}
+
+.expanded .scene-details {
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+  border: 1px solid #cbcdd6;
+  display: flex;
+  max-height: 5000px;
+}
+
+.update-scene-container .scene-details {
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  display: block;
+  max-height: none;
+  width: 300px;
+  background-color: inherit;
+}
+
+.right-viewbar-container .scene-details {
+  display: none;
+}
+
+.scene-properties-title,
+.scene-attributes-title {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+  color: #353a40;
+  margin: 10px 0 5px 10px;
+}
+
+.scene-settings-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  color: #353a40;
+}
+.scene-settings-container .label {
+  -moz-transition: opacity 0.25s;
+  -o-transition: opacity 0.25s;
+  -webkit-transition: opacity 0.25s;
+  transition: opacity 0.25s;
+  margin: 5px 0 5px 0;
+}
+.scene-settings-container .time-slider-container {
+  -moz-transition: opacity 0.25s;
+  -o-transition: opacity 0.25s;
+  -webkit-transition: opacity 0.25s;
+  transition: opacity 0.25s;
+  align-items: center;
+  display: flex;
+  margin-bottom: 10px;
+}
+.scene-settings-container .time-slider-container .time-slider {
+  flex: 1;
+  width: 175px;
+}
+.scene-settings-container .time-slider-container .time-value {
+  flex: 0;
+  margin-left: 5px;
+  width: 40px;
+}
+.scene-settings-container .time-slider-container.disabled,
+.scene-settings-container .label.disabled {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.scenes-filter {
+  margin-bottom: 5px;
+}
+
+input[type=range] {
+  -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+  width: 100%; /* Specific width is required for Firefox. */
+  background: transparent; /* Otherwise white in Chrome */
+}
+
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range]:focus {
+  outline: none; /* Removes the blue border. You should probably do some kind of
+   focus styling for accessibility reasons though. */
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  cursor: pointer;
+  /* Hides the slider so custom styles can be added */
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+input[type=range] {
+  -webkit-appearance: none;
+  width: 100%;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  box-shadow: 0px 0px 1px #000000, 0px 0px 0px #0d0d0d;
+  background: rgba(234, 234, 239, 0.78);
+  border-radius: 6px;
+  border: 0px solid #010000;
+}
+
+input[type=range]::-webkit-slider-thumb {
+  box-shadow: 0px 0px 1px #000031, 0px 0px 0px #00004b;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: #ffffff;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -7.5px;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+  background: rgba(248, 248, 250, 0.78);
+}
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  box-shadow: 0px 0px 1px #000000, 0px 0px 0px #0d0d0d;
+  background: rgba(234, 234, 239, 0.78);
+  border-radius: 6px;
+  border: 0px solid #010000;
+}
+
+input[type=range]::-moz-range-thumb {
+  box-shadow: 0px 0px 1px #000031, 0px 0px 0px #00004b;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: #ffffff;
+  cursor: pointer;
+}
+
+input[type=range]::-ms-track {
+  width: 100%;
+  height: 5px;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+input[type=range]::-ms-fill-lower {
+  background: rgba(220, 220, 228, 0.78);
+  border: 0px solid #010000;
+  border-radius: 12px;
+  box-shadow: 0px 0px 1px #000000, 0px 0px 0px #0d0d0d;
+}
+
+input[type=range]::-ms-fill-upper {
+  background: rgba(234, 234, 239, 0.78);
+  border: 0px solid #010000;
+  border-radius: 12px;
+  box-shadow: 0px 0px 1px #000000, 0px 0px 0px #0d0d0d;
+}
+
+input[type=range]::-ms-thumb {
+  box-shadow: 0px 0px 1px #000031, 0px 0px 0px #00004b;
+  border: 0px solid #000000;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: #ffffff;
+  cursor: pointer;
+  height: 5px;
+}
+
+input[type=range]:focus::-ms-fill-lower {
+  background: rgba(234, 234, 239, 0.78);
+}
+
+input[type=range]:focus::-ms-fill-upper {
+  background: rgba(248, 248, 250, 0.78);
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.tabs-widget-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-bottom: 1px solid #cbcdd6;
+}
+
+.tabs-widget-tab {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  align-items: center;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  height: 40px;
+  justify-content: center;
+  width: 30px;
+}
+.tabs-widget-tab.selected {
+  border-bottom-color: #0063a3;
+}
+.tabs-widget-tab:hover {
+  background-color: #ffffff;
+}
+.tabs-widget-tab img {
+  height: 30px;
+}
+
+.upgrade-mask-container h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.upgrade-mask-container p,
+.upgrade-mask-container .upgrade-dialog-content {
+  color: #585c65;
+  font-size: 16px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+.upgrade-mask-container {
+  align-content: space-around;
+  align-items: center;
+  background-color: #f1f1f6;
+  display: flex;
+  flex-direction: column;
+  max-width: 720px;
+  padding: 35px;
+  padding-bottom: 50px;
+}
+.upgrade-mask-container .primary-action-button,
+.upgrade-mask-container .secondary-action-button {
+  margin-top: 20px;
+}
+.upgrade-mask-container h2 {
+  margin-bottom: 20px;
+}
+.upgrade-mask-container p {
+  margin-bottom: 60px;
+  max-width: 400px;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.modus-text {
+  color: #353a40;
+  font-size: 9pt;
+  letter-spacing: 0.75px;
+}
+.modus-text h1 {
+  color: #0063a3;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.modus-text h2 {
+  color: #171c1e;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.85px;
+}
+.modus-text h3 {
+  color: #0063a3;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.75px;
+}
+.modus-text h4 {
+  color: #171c1e;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+.modus-text h5 {
+  color: #353a40;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.75px;
+}
+
+/**
+ * Copyright 2016 Trimble Inc.
+ *
+ * Color palettes and scales that define the colors available across
+ * browser-based SketchUp platforms.
+ *
+ * Version 3 (4 May 2016).
+ */
+/**
+ * A color palette for the Sketchup brand.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+/**
+ * A color palette for the Trimble Modus Design System.
+ *
+ * Copyright 2022 Trimble Inc.
+ */
+.left-sidebar-container {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  box-shadow: 3px 1px 5px rgba(0, 0, 0, 0.2);
+  background-color: #f1f1f6;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  left: 235px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: calc(100% - 235px);
+  z-index: 70;
+}
+.left-sidebar-container hr {
+  border-top: 1px solid #cbcdd6;
+}
+
+.left-sidebar-header {
+  color: #252a2e;
+  font-size: 20px;
+  padding: 10px 0px 10px 15px;
+}
+
+.toolbar-omnibar-container {
+  left: calc(100% + 16px);
+  position: absolute;
+  top: 0;
+}
+
+.left-sidebar-hidden {
+  visibility: hidden;
+}
+
+.left-sidebar {
+  -moz-user-select: -moz-none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  width: 40px;
+}
+
+@media (max-height: 900px) {
+  .left-sidebar {
+    width: 35px;
+  }
+}
+.left-sidebar {
+  flex-direction: column;
+  justify-content: center;
+  z-index: 70;
+  display: none;
+}
+
+/**
+  css rule targeted to prevent chrome adding a black outline around
+  the currently focused element, this does not affect borders
+*/
+button,
+button:focus,
+button:hover {
+  outline: none;
+}
+
+/*# sourceMappingURL=sketchup.css.map */
